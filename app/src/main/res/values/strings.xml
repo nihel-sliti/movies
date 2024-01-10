@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">NavBarFragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="a_desc">Alyssa is a smart and responsible young girl, her grandfather is a historian specialized in the history of Punic Carthage, who was hiding a secret of Queen Dido of Carthage. Following his death, Alyssa will embark with her school friends: Kenza, Lahlouha, and Sami on a quest to uncover this well-guarded secret before it falls into the hands of wrongdoers.</string>
+    <string name="b_desc">Follows a doctor - Mohamed Emam - who is involved in numerous conflicts due to a lineage crisis, and the problems that arise between families because of this issue.   </string>
+    <string name="c_desc">Asha, a 17-year-old girl with a sharp mind and devoted to her loved ones, lives in Rosas, a kingdom where all wishes can literally come true. In a moment of despair, she makes a wish to the stars, which is answered by a cosmic force: a small ball of infinite energy named Star. Together, Star and Asha will face the most formidable of enemies and prove that the wish of a determined person, combined with the magic of the stars, can produce miracles.</string>
+    <string name="d_desc">Super Tounsi is a hilarious comedy featuring Othmen, a charismatic superhero who, on his deathbed, passes his incredible powers to Sliman, an ordinary individual constantly plagued by fear. This accidental hero discovers newfound confidence by facing his own fears, but he quickly realizes that his mission goes far beyond his own fate. Faced with a psychopathic villain, our national hero will try to thwart his diabolical plan to save Tunisia.
+        Between the scenes of epic battles and the comic situations arising from Sliman s blunders,
+        the film celebrates the idea that even the least likely hero can rise to defend the good.</string>
+    <string name="e_desc">Dali and Mariem are eagerly awaiting the arrival of their first child. On the day of delivery, the doctor informs them that the baby has a rare peculiarity: it carries both male and female sexes. Overwhelmed by this news and confronted with his demons, Dali can no longer play his role with Mariem and their child. </string>
+    <string name="agile_desc">
+From the inventive mind of Matthew Vaughn comes Argylle,
+        a sharp espionage thriller set around the globe. Bryce Dallas Howard
+        stars as Elly Conway, the reclusive author of a successful series of spy novels, whose idea of happiness
+        is a quiet evening at home with her computer and her cat, Alfie. But when the plots of her books,
+        centered on the secret agent Argylle and his battle to dismantle a global spy network,
+        begin to eerily mirror the secret operations of a real spy organization, her peace becomes nothing but a memory.
+    </string>
+    <string name="mean_girls_desc">
+    Tina Fey brings a fresh twist to the cult comedy of the 2000s, "Mean Girls".
+    </string>
+    <string name="poor_things_desc">
+        After drowning to escape her abusive husband, Bella Baxter s brain is replaced by that of her unborn child.
+    </string>
+    <string name="the_iron_claw_desc">The rise and fall of the Von Erich family, a wrestling dynasty that had a huge impact on the sport from the 1960s to the present day.</string>
+<string name="imaginary_desc">When Jessica returns to her childhood home with her family, her youngest stepdaughter Alice (Pyper Braun) develops a strange attachment to a teddy bear she finds in the basement, which she names Chauncey. It all starts with innocent games, but Alice s behavior becomes increasingly disturbing. Jessica then realizes that Chauncey is much more than just a toy</string>
+</resources>
